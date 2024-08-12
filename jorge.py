@@ -1,4 +1,5 @@
 n = int(input("digite sua idade"))
+nome = input("digite o seu nome")
 
 if n > 18 :
     print("di maior")
